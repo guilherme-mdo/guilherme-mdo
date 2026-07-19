@@ -36,7 +36,13 @@ Estudante de Engenharia de Software apaixonado por resolver problemas através d
 
 ### 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=guilherme-mdo&show_icons=true&theme=tokyonight" alt="Guilherme Stats" />
+<div align="center">
+  <!-- Estatísticas de Sequência de Contribuições -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-mdo&theme=tokyonight" alt="Sequência de Contribuições" />
+  
+  <!-- Cartão de Resumo de Atividade (Alternativo) -->
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=guilherme-mdo&cc=000&tc=70a1ff&ic=70a1ff&bc=000" alt="Resumo de Atividade" />
+</div>
 
 ---
 
