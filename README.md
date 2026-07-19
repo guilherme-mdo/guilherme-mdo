@@ -44,7 +44,9 @@ Estudante de Engenharia de Software apaixonado por resolver problemas através d
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=guilherme-mdo&cc=000&tc=70a1ff&ic=70a1ff&bc=000" alt="Resumo de Atividade" />
 </div>
 
----
+### 📈 Gráfico de Atividades
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-mdo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📫 Como me encontrar?
 
